@@ -1,0 +1,2 @@
+# prolog
+facts and rules
